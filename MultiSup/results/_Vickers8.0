@@ -1,0 +1,6 @@
+Method	alpha	acc_avg_svm	pre_avg_svm	recall_avg_svm	f1_avg_svm	MAE_avg_svm	RMSE_avg_svm	acc_avg_rf	pre_avg_rf	recall_avg_rf	f1_avg_rf	MAE_avg_rf	RMSE_avg_rf	acc_avg_Ada	pre_avg_Ada	recall_avg_Ada	f1_avg_Ada	MAE_avg_Ada	RMSE_avg_Ada	
+ours	1	0.7468	0.7333	0.9167	0.8148	0.2532	0.5032	0.7595	0.7302	0.9583	0.8288	0.2405	0.4904	0.7595	0.7736	0.8542	0.8119	0.2405	0.4904	
+ours	2	0.8235	0.7576	0.9615	0.8475	0.1765	0.4201	0.9020	0.9200	0.8846	0.9020	0.0980	0.3131	0.8039	0.8333	0.7692	0.8000	0.1961	0.4428	
+ours	3	0.8103	0.7632	0.9355	0.8406	0.1897	0.4355	0.8103	0.8333	0.8065	0.8197	0.1897	0.4355	0.8103	0.7941	0.8710	0.8308	0.1897	0.4355	
+
+
